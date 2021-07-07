@@ -1,0 +1,363 @@
+@media screen and (max-width: 1330px) {}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is between 0px and 1100px wide,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 1100px) {
+    .text-save-pro-mqn-main-pro h1{
+        font-size: 35px;
+        line-height: 45px;
+        width: 550px;
+        font-weight: bold;
+    }
+
+    .item-feature-pro-mqn{
+        margin-top: 78px;
+    }
+
+    .item-feature-pro-mqn-main-top h1{
+        font-size: 33px;
+    }
+
+    .item-feature-pro-mqn-main-top p{
+        line-height: 22px;
+    }
+
+    .item-feature-pro-mqn-main-top h6{
+        margin-top: 108px;
+    }
+
+    .item-right-booknow a{
+        margin-left: 10px;
+    }
+
+    .item-text-left-pro-mqn{
+        width: 203px;
+    }
+
+    .item-text-left-pro-mqn p{
+        line-height: 21px;
+        font-size: 15px;
+    }
+
+    .rating-pro-mqn-main-pro p{
+        float: left;
+        margin: 0px 7px 0px 0px;
+        margin-left: -15px;
+        font-size:12px;
+    }
+
+    #banner-our-pro-mqn-provide{
+        height: 748px;
+    }
+
+    .item-banner-best-list-word-place-mqn h1{
+        font-size: 20px;
+    }
+
+    #banner-review-item-pro-mqn-main-top{
+        height: 1050px;
+    }
+
+    .item-title-pro-mqn-review-main{
+        margin-top: 448px;
+    }
+
+    .item-blog-pro-banner-latter h1{
+        font-size: 20px;
+        padding: 2px 0px;
+        margin-bottom: 2px;
+    }
+
+    .info-text-pro-mqn-february-main-right a{
+        margin-right: 39px;
+    }
+
+    .info-text-pro-mqn-february-main-right img{
+        width: 152px;
+    }
+
+
+    .info-text-pro-mqn-february-main-right{
+        margin-top: 150px;
+    }
+
+    #banner-logo-doitac-pro-main-mqn img{
+        width: 106px;
+    }
+
+    .form-pro-right-main input[type=text]{
+        width: 88%;
+    }
+
+    .form-pro-right-main{
+        margin-top: 60px;
+    }
+}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is between 0px and 992px wide,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 992px) {
+    #banner-main-pro-mqn-pro{
+        height: 556px;
+    }
+
+    #banner-our-pro-mqn-provide{
+        height: auto;
+        background-size: cover;
+        padding: 50px 0px;
+    }
+
+    .titt-banner-our-pro-mqn-provide h6{
+        margin-top: 11px;
+    }
+
+    .item-text-detail-pro-mqn-main{
+        margin-bottom: 46px;
+    }
+
+    #banner-best-tourist-place-mqn-pro{
+        background-size: cover;
+    }
+
+    .item-banner-best-list-word-place-mqn p{
+        width: 100%;
+    }
+
+    .item-client-pro-mqn-menber h1{
+        font-size: 26px;
+    }
+
+    .item-client-pro-mqn-menber p{
+        font-size: 11px;
+    }
+
+    #banner-review-item-pro-mqn-main-top{
+        height: 900px;
+    }
+
+    .item-title-pro-mqn-review-main{
+        margin-top: 208px;
+    }
+
+    .info-text-pro-mqn-february-main-right img{
+        width: 98px;
+    }
+
+    .info-text-pro-mqn-february-main-right{
+        margin-top: 40px;
+    }
+
+    #banner-logo-doitac-pro-main-mqn img{
+        width: 70px;
+        margin-left: 64px;
+    }
+
+    #banner-logo-doitac-pro-main-mqn{
+        height: 275px;
+    }
+
+    .form-pro-right-main input[type=text]{
+        width: 83%;
+    }
+
+    .ista-gram-pro-mqn-main-pro,
+    .item-main-menu-pro-mqn-footer{
+        margin-left: 0px;
+    }
+
+    .text-save-pro-mqn-main-pro{
+        margin-top: 120px;
+    }
+}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is between 0px and 767px wide,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 767px) {}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is between 0px and 481px wide,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 480px) {
+    .item-feature-pro-mqn-main-top{
+        margin-bottom: 40px;
+    }
+
+    .item-info-pro-mqn-main{
+        margin-bottom: 35px;
+    }
+
+    .item-left-rating{
+        width: 262px;
+    }
+
+    .item-text-review-pro-mqn-main-plasure p,
+    .title-banner-best-tourist-pro-mqn-main p,
+    .text-save-pro-mqn-main-pro h1{
+        width: auto;
+    }
+
+   
+    .item-banner-best-list-word-place-mqn img{
+        float: none;
+        margin: auto;
+    }
+
+    .item-blog-pro-banner-latter,
+    .item-banner-best-list-word-place-mqn{
+        text-align: center;
+    }
+
+    .item-client-pro-mqn-menber{
+        display: table;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .item-text-review-pro-mqn-main-plasure{
+        width: auto;
+    }
+
+    .item-title-pro-mqn-review-main{
+        margin-top: 22px;
+    }
+
+    .dateticker-pro-mqn-lich-main{
+        width: 176px;
+    }
+
+    .item-blog-pro-banner-latter img{
+        float: none;
+        margin: auto;
+        width: 100%;
+    }
+
+    .dateticker-pro-mqn-lich-main img{
+        width: 20px;
+        height: 20px;
+    }
+
+    .item-img-left-february img{
+        display: none;
+    }
+
+    .info-text-pro-mqn-february-main-right{
+        margin-top: -100px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    #banner-logo-doitac-pro-main-mqn img{
+        width: 43px;
+        margin-left: 34px;
+        margin-top: 20px;
+    }
+
+    #banner-logo-doitac-pro-main-mqn{
+        height: 207px;
+    }
+
+    .item-info-text-left-pro{
+        margin-bottom: -37px;
+        text-align: center;
+    }
+
+    .form-pro-right-main input[type=text]{
+        margin-bottom: 25px;
+    }
+
+    #banner-review-item-pro-mqn-main-top{
+        height: 650px;
+    }
+
+    .item-text-review-pro-mqn-main-plasure{
+        padding: 25px 0px;
+    }
+
+    #map{
+        width: 92%;
+    }
+}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is between 0px and 1030px wide,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 375px) {
+    .item-left-rating{
+        width: 222px;
+    }
+
+    .item-pro-mqn-unlimited-pro-mqn{
+        margin-bottom: 65px;
+    }
+
+    .item-text-review-pro-mqn-main-plasure{
+        padding: 7px 5px;
+    }
+
+    .arrow{
+        margin-top: -16px;
+        margin-bottom: 20px;
+    }
+
+    .dateticker-pro-mqn-lich-main{
+        width: 157px;
+    }
+
+    .info-text-pro-mqn-february-main-right img{
+        width: 91px;
+    }
+
+    .info-text-pro-mqn-february-main-right{
+        margin-left: 8px;
+    }
+
+    .info-text-pro-mqn-february-main-right a{
+        margin-right: 47px;
+    }
+
+    .info-text-pro-mqn-february-main-right img{
+        width: 103px;
+    }
+
+    #banner-logo-doitac-pro-main-mqn img{
+        margin-left: 18px;
+    }
+}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is 992px or wider,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (min-width: 992px) {
+    .nav>li>a {
+        font-size: 15px;
+    }
+}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is between 0px and 1130px wide,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 1130px) {}
+
+/*-------------------------------------------------------*/
+
+/* When the browser is between 0px and 1180px wide,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width: 1180px) {}
